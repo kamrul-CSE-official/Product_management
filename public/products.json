@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "name": "Product A",
+    "category": "Design",
+    "image": "https://plus.unsplash.com/premium_photo-1679448061971-ee0993f0e500?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDh8fHxlbnwwfHx8fHw%3D",
+    "price": 49.99,
+    "description": "A creative design solution for modern brands.",
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "name": "Product B",
+    "category": "Development",
+    "image": "https://images.unsplash.com/photo-1617858123189-b26eb62d8eb4?q=80&w=2047&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": 79.99,
+    "description": "Powerful backend development tools and resources.",
+    "rating": 4.8
+  },
+  {
+    "id": 3,
+    "name": "Product C",
+    "category": "Marketing",
+    "image": "https://images.unsplash.com/photo-1686831889383-290d9bab10e6?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDZ8fHxlbnwwfHx8fHw%3D",
+    "price": 59.00,
+    "description": "Effective marketing strategies for growing your business.",
+    "rating": 4.3
+  },
+  {
+    "id": 4,
+    "name": "Product D",
+    "category": "Design",
+    "image": "https://images.unsplash.com/photo-1706780446649-afca6a1a3b33?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDIxfHx8ZW58MHx8fHx8",
+    "price": 42.50,
+    "description": "Premium design templates for professionals.",
+    "rating": 4.1
+  },
+  {
+    "id": 5,
+    "name": "Product E",
+    "category": "Marketing",
+    "image": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": 67.20,
+    "description": "Social media growth tactics and engagement boosters.",
+    "rating": 4.6
+  },
+  {
+    "id": 6,
+    "name": "Product F",
+    "category": "Development",
+    "image": "https://plus.unsplash.com/premium_photo-1679064287823-fbd549bf47dd?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDQ4fHx8ZW58MHx8fHx8",
+    "price": 89.00,
+    "description": "Advanced coding frameworks for app development.",
+    "rating": 4.9
+  },
+  {
+    "id": 7,
+    "name": "Product G",
+    "category": "Marketing",
+    "image": "https://plus.unsplash.com/premium_photo-1679064286755-199f99d38858?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDI4fHx8ZW58MHx8fHx8",
+    "price": 39.99,
+    "description": "Email marketing and automation toolkit.",
+    "rating": 4.0
+  },
+  {
+    "id": 8,
+    "name": "Product H",
+    "category": "Design",
+    "image": "https://plus.unsplash.com/premium_photo-1678806901623-5ef41d29f31b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE3fHx8ZW58MHx8fHx8",
+    "price": 52.99,
+    "description": "User interface kits and graphic assets.",
+    "rating": 4.4
+  },
+  {
+    "id": 9,
+    "name": "Product I",
+    "category": "Development",
+    "image": "https://plus.unsplash.com/premium_photo-1679448060884-d983f3365b48?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDl8fHxlbnwwfHx8fHw%3D",
+    "price": 95.75,
+    "description": "Full-stack development environment bundle.",
+    "rating": 4.7
+  }
+]
