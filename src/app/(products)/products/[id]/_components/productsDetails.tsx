@@ -24,20 +24,22 @@ function ProductsDetail({ id }: { id: string }) {
       try {
         setLoading(true);
         const res = await fetch(`/api/products/${id}`);
-        
+
         if (!res.ok) {
           throw new Error("Product not found");
         }
-        
+
         const data = await res.json();
-        
+
         if (!data.data) {
           throw new Error("Product data not available");
         }
-        
+
         setProduct(data.data);
       } catch (err) {
-        setError(err instanceof Error ? err.message : "Failed to fetch product");
+        setError(
+          err instanceof Error ? err.message : "Failed to fetch product"
+        );
       } finally {
         setLoading(false);
       }
