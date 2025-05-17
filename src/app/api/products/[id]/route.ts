@@ -49,7 +49,10 @@ export async function GET(req: NextRequest, { params }: { params: { id: string }
   try {
     const product = await products.findById(params.id);
     if (!product) {
-      return NextResponse.json({ success: false, message: "Product not found" }, { status: 404 });
+      return NextResponse.json(
+        { success: false, message: "Product not found" },
+        { status: 404 }
+      );
     }
     return NextResponse.json({ success: true, data: product }, { status: 200 });
   } catch (error) {

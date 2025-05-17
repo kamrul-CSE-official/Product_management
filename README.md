@@ -2,7 +2,7 @@
 
 A modern web application for managing products with CRUD operations, built with Next.js, Tailwind CSS, and MongoDB.
 
-![Project Screenshot](./public/screenshot.png) <!-- Add a screenshot later -->
+![Project Screenshot](./public/pm.png) 
 
 ## Features
 
